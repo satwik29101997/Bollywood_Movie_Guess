@@ -6,30 +6,42 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Bollywood: Guess the Movie (Party Game)</title>
   <style>
-    :root{--bg:#0f1724;--panel:#0b1220;--accent:#ffcc00;--muted:#9aa6b2;--card:#0f1a2b}
-    html,body{height:100%;margin:0;font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#071021 0%, #061423 100%);color:#e6eef7}
-    .wrap{max-width:980px;margin:28px auto;padding:22px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));border-radius:12px;box-shadow:0 6px 30px rgba(2,6,23,0.7)}
+    :root{--bg:#081129;--panel:#071427;--accent:#ff7a18;--accent2:#6a11cb;--muted:#9aa6b2;--card:#071a2b}
+    html,body{height:100%;margin:0;font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(180deg,#041022 0%, #071026 100%);color:#eef6ff}
+    .wrap{max-width:980px;margin:28px auto;padding:22px;background:linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));border-radius:14px;box-shadow:0 10px 40px rgba(3,10,30,0.7)}
     h1{margin:0 0 8px;font-size:22px}
     p.lead{margin:0 0 18px;color:var(--muted)}
     .game{display:flex;gap:18px;flex-wrap:wrap}
     .card{flex:1 1 360px;min-width:300px;background:var(--card);padding:18px;border-radius:10px}
     .controls{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
-    button{background:linear-gradient(180deg,#1c2736,#0f1a2b);color:#fff;border:1px solid rgba(255,255,255,0.05);padding:10px 12px;border-radius:8px;cursor:pointer}
-    button.primary{background:linear-gradient(180deg,var(--accent),#ffb400);color:#071022;font-weight:700}
+    button{background:linear-gradient(180deg,#122033,#081726);color:#fff;border:1px solid rgba(255,255,255,0.06);padding:10px 12px;border-radius:10px;cursor:pointer;transition:transform .12s ease,box-shadow .12s ease}
+    button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,0.35)}
+    button.primary{background:linear-gradient(90deg,var(--accent),var(--accent2));color:#071022;font-weight:700;border:none;box-shadow:0 6px 18px rgba(106,17,203,0.12)}
     button.ghost{background:transparent;border:1px dashed rgba(255,255,255,0.06)}
     .character{font-size:20px;font-weight:700;margin:8px 0}
     .hint{color:var(--muted);margin-top:6px}
-    .list{max-height:380px;overflow:auto;margin-top:8px;border-top:1px dashed rgba(255,255,255,0.03);padding-top:8px}
-    .entry{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.02)}
+    .brand{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+    .logo{width:40px;height:40px;border-radius:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));display:flex;align-items:center;justify-content:center;font-weight:800;color:#fff;font-size:14px;box-shadow:0 6px 20px rgba(106,17,203,0.12)}
+    .brand strong{font-size:13px;display:block;color:#fff}
+    .brand span{font-size:12px;color:var(--muted)}
+    .devTag{display:flex;align-items:baseline;gap:8px;margin-bottom:10px}
+    .devTag .by{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:0.06em}
+    .devTag strong{font-size:13px;color:var(--accent2)}
+    .list{max-height:380px;overflow:auto;margin-top:8px;border-top:1px dashed rgba(255,255,255,0.03);padding-top:8px;transition:max-height .28s ease,padding-top .28s ease}
+    .list.collapsed{max-height:0;padding-top:0;border-top:0}
+    .card{flex:1 1 360px;min-width:300px;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));padding:18px;border-radius:12px}
+    .entry{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.02)}
     code{background:#071224;padding:4px 8px;border-radius:6px;color:#bfe3ff}
     .small{font-size:13px;color:var(--muted)}
     .footer{margin-top:14px;font-size:13px;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+    .muted-accent{color:rgba(255,255,255,0.85)}
     @media(max-width:720px){.game{flex-direction:column}}
   </style>
 </head>
 
 <body>
   <div class="wrap">
+    <div class="devTag"><div class="by">Developed by</div><strong>Satwik Talegaonkar</strong></div>
     <h1>Bollywood — Guess the Movie</h1>
     <p class="lead">Players get a character's name. They speak a famous dialogue of that character. Others guess the movie. Use the controls to hint, skip, or copy cards for party play.</p>
 
@@ -52,8 +64,8 @@
       </div>
 
       <div class="card">
-        <div class="small">Movie list (50 iconic picks)</div>
-        <div class="list" id="listArea"></div>
+        <div class="small">Movie list<button id="toggleListBtn" class="ghost" aria-expanded="false" onclick="toggleList()">Show list</button></div>
+        <div class="list collapsed" id="listArea"></div>
         <div class="footer">
           <div class="small">Total: <span id="totalCount">0</span></div>
           <div class="small">Tip: Host can preview lines then hand cards to players.</div>
@@ -228,8 +240,23 @@
       a.href = url; a.download = 'bollywood-guess-cards.csv'; document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
     }
 
+    function toggleList(){
+      const area = document.getElementById('listArea');
+      const btn = document.getElementById('toggleListBtn');
+      const collapsed = area.classList.toggle('collapsed');
+      if(collapsed){
+        btn.innerText = 'Show list';
+        btn.setAttribute('aria-expanded','false');
+      } else {
+        btn.innerText = 'Hide list';
+        btn.setAttribute('aria-expanded','true');
+      }
+    }
+
     // initialize list
     renderList();
+
+    // small accessibility: reveal list if user prefers reduced motion? keep collapsed by default
   </script>
 </body>
 
