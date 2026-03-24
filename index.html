@@ -29,7 +29,45 @@
     .devTag strong{font-size:13px;color:var(--accent2)}
     .list{max-height:380px;overflow:auto;margin-top:8px;border-top:1px dashed rgba(255,255,255,0.03);padding-top:8px;transition:max-height .28s ease,padding-top .28s ease}
     .list.collapsed{max-height:0;padding-top:0;border-top:0}
-    .card{flex:1 1 360px;min-width:300px;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));padding:18px;border-radius:12px}
+    .card{flex:1 1 360px;min-width:300px;background:linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.00));padding:18px;border-radius:12px;perspective:1200px;position:relative}
+    .card__inner{position:relative;width:100%;min-height:500px;transform-style:preserve-3d;transition:transform 2s ease}
+    .card.flipped .card__inner{transform:rotateY(180deg)}
+    .card__face{position:absolute;top:0;left:0;width:100%;height:100%;backface-visibility:hidden;border-radius:12px;display:flex;flex-direction:column;justify-content:space-between;padding:18px}
+    .card__face--front{padding:18px}
+    .card__face--back{background:linear-gradient(135deg, rgba(106,17,203,0.9), rgba(255,122,24,0.85));color:#fff;padding:18px;transform:rotateY(180deg);box-shadow:0 18px 40px rgba(0,0,0,0.4)}
+    .card__back-title{font-size:32px;font-weight:900;letter-spacing:0.15em;text-transform:uppercase;line-height:1.1;margin:0 0 14px;text-shadow:0 10px 25px rgba(0,0,0,0.4)}
+    .card__back-subtitle{font-size:14px;opacity:0.85}
+    .card__face--back::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 20%, rgba(255,255,255,0.2), transparent 55%);pointer-events:none;border-radius:inherit}
+    .card__face--back::after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 70% 80%, rgba(255,255,255,0.15), transparent 60%);pointer-events:none;border-radius:inherit}
+    .confetti{position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:10;overflow:hidden}
+    .confetti span{position:absolute;width:8px;height:8px;background:#ff7a18;border-radius:50%;animation:confetti-fall 2s ease-in-out forwards}
+    .confetti span:nth-child(1){left:10%;animation-delay:0s}
+    .confetti span:nth-child(2){left:20%;animation-delay:0.2s;background:#6a11cb}
+    .confetti span:nth-child(3){left:30%;animation-delay:0.4s}
+    .confetti span:nth-child(4){left:40%;animation-delay:0.6s;background:#6a11cb}
+    .confetti span:nth-child(5){left:50%;animation-delay:0.8s}
+    .confetti span:nth-child(6){left:60%;animation-delay:1s;background:#ff7a18}
+    .confetti span:nth-child(7){left:70%;animation-delay:1.2s}
+    .confetti span:nth-child(8){left:80%;animation-delay:1.4s;background:#6a11cb}
+    .confetti span:nth-child(9){left:90%;animation-delay:1.6s}
+    .confetti span:nth-child(10){left:95%;animation-delay:1.8s;background:#ff7a18}
+    @keyframes confetti-fall{0%{transform:translateY(-20px) rotate(0deg);opacity:1}50%{transform:translateY(50%) rotate(180deg);opacity:0.8}100%{transform:translateY(120%) rotate(360deg);opacity:0}}
+    .confetti span:nth-child(1){left:10%;animation-delay:0s}
+    .confetti span:nth-child(2){left:20%;animation-delay:0.2s;background:#6a11cb}
+    .confetti span:nth-child(3){left:30%;animation-delay:0.4s}
+    .confetti span:nth-child(4){left:40%;animation-delay:0.6s;background:#6a11cb}
+    .confetti span:nth-child(5){left:50%;animation-delay:0.8s}
+    .confetti span:nth-child(6){left:60%;animation-delay:1s;background:#ff7a18}
+    .confetti span:nth-child(7){left:70%;animation-delay:1.2s}
+    .confetti span:nth-child(8){left:80%;animation-delay:1.4s;background:#6a11cb}
+    .confetti span:nth-child(9){left:90%;animation-delay:1.6s}
+    .confetti span:nth-child(10){left:95%;animation-delay:1.8s;background:#ff7a18}
+    @keyframes confetti-fall{0%{transform:translateY(-20px) rotate(0deg);opacity:1}50%{transform:translateY(50%) rotate(180deg);opacity:0.8}100%{transform:translateY(120%) rotate(360deg);opacity:0}}
+
+    .card__back-title{font-size:32px;font-weight:900;letter-spacing:0.15em;text-transform:uppercase;line-height:1.1;margin:0 0 14px;text-shadow:0 10px 25px rgba(0,0,0,0.4)}
+    .card__back-subtitle{font-size:14px;opacity:0.85}
+    .card__face--back::before{content:'';position:absolute;inset:0;background:radial-gradient(circle at 30% 20%, rgba(255,255,255,0.2), transparent 55%);pointer-events:none;border-radius:inherit}
+    .card__face--back::after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 70% 80%, rgba(255,255,255,0.15), transparent 60%);pointer-events:none;border-radius:inherit}
     .entry{display:flex;justify-content:space-between;padding:8px 0;border-bottom:1px solid rgba(255,255,255,0.02)}
     code{background:#071224;padding:4px 8px;border-radius:6px;color:#bfe3ff}
     .small{font-size:13px;color:var(--muted)}
@@ -46,21 +84,33 @@
     <p class="lead">Players get a character's name. They speak a famous dialogue of that character. Others guess the movie. Use the controls to hint, skip, or copy cards for party play.</p>
 
     <div class="game">
-      <div class="card" id="gameCard">
+        <div class="card" id="gameCard">
         <div class="small">Current card</div>
-        <div id="characterName" class="character">Press <button class="primary" onclick="startGame()">Start Game</button> to get a character</div>
-        <div id="instructions" class="hint">Speak the character's iconic dialogue — others guess the movie.</div>
+        <div class="card__inner" id="cardInner">
+          <div class="card__face card__face--front">
+            <div id="characterName" class="character">Press the button below to draw a movie.</div>
+            <div id="instructions" class="hint">Speak the character's iconic dialogue — others guess the movie.</div>
 
-        <div class="controls">
-          <button onclick="showHint()" class="ghost">Hint</button>
-          <button onclick="nextCard()">Next</button>
-          <button onclick="copyCard()">Copy card</button>
-          <button onclick="exportCSV()">Export list</button>
-        </div>
+            <div class="controls">
+              <button onclick="drawMovie()" class="primary">Draw a movie</button>
+              <button onclick="nextCard()">Next</button>
+              <button onclick="copyCard()">Copy card</button>
+              <button onclick="exportCSV()">Export list</button>
+              <button onclick="showHint()" class="ghost">Hint</button>
+            </div>
 
-        <div style="margin-top:12px">
-            <p id="feedback" class="small" style="margin-top:8px"></p>
+            <div style="margin-top:12px">
+                <p id="feedback" class="small" style="margin-top:8px"></p>
+              </div>
           </div>
+
+          <div class="card__face card__face--back" id="cardBack">
+            <div>
+              <div class="card__back-title">GUESS<br/>THE<br/>MOVIE</div>
+              <div class="card__back-subtitle">Click "Draw a movie" to reveal a new card.</div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <div class="card">
@@ -216,6 +266,7 @@
 ];
 
     let current = null;
+    let flipTimer = null;
 
     function renderList() {
       const area = document.getElementById('listArea');
@@ -230,29 +281,54 @@
     }
 
     function startGame() {
-      pickRandom();
+      drawMovie();
+    }
+
+    function drawMovie() {
+      const card = document.getElementById('gameCard');
+      if (card.classList.contains('flipping')) return;
+      card.classList.add('flipping', 'flipped');
+
+      // Add confetti
+      const confetti = document.createElement('div');
+      confetti.className = 'confetti';
+      for(let i=0; i<10; i++){
+        const span = document.createElement('span');
+        span.style.left = Math.random() * 100 + '%';
+        span.style.animationDelay = Math.random() * 2 + 's';
+        confetti.appendChild(span);
+      }
+      card.appendChild(confetti);
+
+      clearTimeout(flipTimer);
+      flipTimer = setTimeout(() => {
+        pickRandom();
+        card.classList.remove('flipped', 'flipping');
+        // Remove confetti
+        if(confetti.parentNode) confetti.parentNode.removeChild(confetti);
+      }, 2000);
     }
 
     function pickRandom() {
       current = cards[Math.floor(Math.random() * cards.length)];
       const charArea = document.getElementById('characterName');
-      charArea.innerHTML = `<div class=\"small\">Character</div><div class=\"character\">${current.characterFull}</div><div class=\"small\">Played by: <strong>${current.actor}</strong></div>`;
-      // remove any existing movie block first
-      const existing = document.getElementById('movieBlock');
-      if(existing) existing.remove();
-      // show movie by default (same visual format as character)
-      const movieHtml = `<div class=\\"small\\">Movie</div><div class=\\"character\\">${current.movieFull}</div>`;
-      const wrap = document.createElement('div');
-      wrap.id = 'movieBlock';
-      wrap.style.marginTop = '10px';
-      wrap.innerHTML = movieHtml;
-      charArea.appendChild(wrap);
-      document.getElementById('instructions').innerText = 'Speak a famous dialogue of this character — others guess the movie.';
+      charArea.innerHTML = `
+        <div class="small">Movie Name</div>
+        <div class="character">${current.movieFull}</div>
+        <div class="small">Character Name</div>
+        <div class="character">${current.characterFull}</div>
+        <div class="small">Actor's Real Name</div>
+        <div class="character">${current.actor}</div>
+        <div class="small">Famous dialogue</div>
+        <div class="character" style="font-size:16px;font-weight:500;">${current.hint || '—'}</div>
+      `;
+
+      document.getElementById('instructions').innerText = 'Speak the famous dialogue — others guess the movie.';
       document.getElementById('feedback').innerText = '';
     }
 
     function nextCard() {
-      pickRandom();
+      drawMovie();
     }
 
     function showHint() {
