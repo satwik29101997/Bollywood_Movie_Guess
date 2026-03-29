@@ -1,0 +1,2032 @@
+[
+  {
+    "characterFull": "Aditya Kashyap",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Train miss ho gayi.",
+    "id": 1
+  },
+  {
+    "characterFull": "Alauddin Khilji",
+    "actor": "Ranveer Singh",
+    "movieFull": "Padmaavat (2018)",
+    "hint": "Khilji ke paas dimaag bhi hai.",
+    "id": 2
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Aaj ek hasi aur baant lo.",
+    "id": 3
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Aaj… aaj ek hasi aur baant lo.",
+    "id": 4
+  },
+  {
+    "characterFull": "Amar",
+    "actor": "Aamir Khan",
+    "movieFull": "Andaz Apna Apna (1994)",
+    "hint": "Teja main hoon, mark idhar hai.",
+    "id": 5
+  },
+  {
+    "characterFull": "Arjun",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Seize the day.",
+    "id": 6
+  },
+  {
+    "characterFull": "Babu Bhaiya",
+    "actor": "Paresh Rawal",
+    "movieFull": "Phir Hera Pheri (2006)",
+    "hint": "Yeh toh shuru hote hi khatam ho gaya.",
+    "id": 7
+  },
+  {
+    "characterFull": "Baburao Ganpatrao Apte",
+    "actor": "Paresh Rawal",
+    "movieFull": "Hera Pheri (2000)",
+    "hint": "Utha le re baba.",
+    "id": 8
+  },
+  {
+    "characterFull": "Bajirao",
+    "actor": "Ranveer Singh",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Bajirao ne Mastani se mohabbat ki hai.",
+    "id": 9
+  },
+  {
+    "characterFull": "Bhuvan",
+    "actor": "Aamir Khan",
+    "movieFull": "Lagaan (2001)",
+    "hint": "Hum jeetenge.",
+    "id": 10
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Main udna chahta hoon.",
+    "id": 11
+  },
+  {
+    "characterFull": "Chulbul Pandey",
+    "actor": "",
+    "movieFull": "Dabangg (2010)",
+    "hint": "Thappad se darr nahi lagta sahab.",
+    "id": 12
+  },
+  {
+    "characterFull": "Circuit",
+    "actor": "Arshad Warsi",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Bhai ne bola karne ka matlab karne ka.",
+    "id": 13
+  },
+  {
+    "characterFull": "Crime Master Gogo",
+    "actor": "Shakti Kapoor",
+    "movieFull": "Andaz Apna Apna (1994)",
+    "hint": "Aankhen nikaal ke gotiyan khelunga.",
+    "id": 14
+  },
+  {
+    "characterFull": "Devdas Mukherjee",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Devdas (2002)",
+    "hint": "Kaun kambakht bardaasht karne ke liye peeta hai.",
+    "id": 15
+  },
+  {
+    "characterFull": "Don",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Don (1978)",
+    "hint": "Don ko pakadna mushkil hi nahi, namumkin hai.",
+    "id": 16
+  },
+  {
+    "characterFull": "Gabbar Singh",
+    "actor": "Amjad Khan",
+    "movieFull": "Sholay (1975)",
+    "hint": "Kitne aadmi the?",
+    "id": 17
+  },
+  {
+    "characterFull": "Geet",
+    "actor": "",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Main apni favorite hoon.",
+    "id": 18
+  },
+  {
+    "characterFull": "Imran",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Pighle neelam sa.",
+    "id": 19
+  },
+  {
+    "characterFull": "Jai",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Sholay (1975)",
+    "hint": "Tumhara naam kya hai Basanti?",
+    "id": 20
+  },
+  {
+    "characterFull": "Jordan",
+    "actor": "",
+    "movieFull": "Rockstar (2011)",
+    "hint": "Dard bhi ek tarah ka pyaar hai.",
+    "id": 21
+  },
+  {
+    "characterFull": "Kabir Dewan",
+    "actor": "Abhay Deol",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Shaadi kar raha hoon.",
+    "id": 22
+  },
+  {
+    "characterFull": "Kabir Khan",
+    "actor": "",
+    "movieFull": "Chak De India (2007)",
+    "hint": "Sattar minute.",
+    "id": 23
+  },
+  {
+    "characterFull": "Kabir Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Kabir Singh (2019)",
+    "hint": "Main banda hi kharaab hoon.",
+    "id": 24
+  },
+  {
+    "characterFull": "Krishna Mehra",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Krrish (2006)",
+    "hint": "Hero woh hota hai.",
+    "id": 25
+  },
+  {
+    "characterFull": "Majnu Bhai",
+    "actor": "Anil Kapoor",
+    "movieFull": "Welcome (2007)",
+    "hint": "Control Uday control.",
+    "id": 26
+  },
+  {
+    "characterFull": "Murli Prasad Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Jaadu ki jhappi.",
+    "id": 27
+  },
+  {
+    "characterFull": "Naina Talwar",
+    "actor": "Deepika Padukone",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Kahin pahunchne ke liye kahin se nikalna zaroori hota hai.",
+    "id": 28
+  },
+  {
+    "characterFull": "Om Kapoor",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Om Shanti Om (2007)",
+    "hint": "Picture abhi baaki hai mere dost.",
+    "id": 29
+  },
+  {
+    "characterFull": "PK",
+    "actor": "Aamir Khan",
+    "movieFull": "PK (2014)",
+    "hint": "Wrong number.",
+    "id": 30
+  },
+  {
+    "characterFull": "Prem",
+    "actor": "Salman Khan",
+    "movieFull": "Andaz Apna Apna (1994)",
+    "hint": "Do dost ek cup mein chai piyenge.",
+    "id": 31
+  },
+  {
+    "characterFull": "Prem",
+    "actor": "Salman Khan",
+    "movieFull": "Hum Aapke Hain Koun..! (1994)",
+    "hint": "Dosti ka ek usool hai madam.",
+    "id": 32
+  },
+  {
+    "characterFull": "Radhe",
+    "actor": "",
+    "movieFull": "Wanted (2009)",
+    "hint": "Ek baar jo maine commitment kar di.",
+    "id": 33
+  },
+  {
+    "characterFull": "Rahul Khanna",
+    "actor": "",
+    "movieFull": "Kuch Kuch Hota Hai (1998)",
+    "hint": "Kuch kuch hota hai tum nahi samjhogi.",
+    "id": 34
+  },
+  {
+    "characterFull": "Rahul Khanna",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kuch Kuch Hota Hai (1998)",
+    "hint": "Kuch kuch hota hai — tum nahi samjhogi.",
+    "id": 35
+  },
+  {
+    "characterFull": "Rahul Raichand",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kabhi Khushi Kabhie Gham (2001)",
+    "hint": "Keh diya na… bas keh diya.",
+    "id": 36
+  },
+  {
+    "characterFull": "Raj",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Baazigar (1993)",
+    "hint": "Kabhi kabhi jeetne ke liye kuch haarna padta hai.",
+    "id": 37
+  },
+  {
+    "characterFull": "Raj Aryan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Mohabbatein (2000)",
+    "hint": "Mohabbat bhi zindagi ki tarah hoti hai.",
+    "id": 38
+  },
+  {
+    "characterFull": "Raj Malhotra",
+    "actor": "",
+    "movieFull": "Dilwale Dulhania Le Jayenge (1995)",
+    "hint": "Bade bade deshon mein aisi chhoti chhoti baatein hoti rehti hain.",
+    "id": 39
+  },
+  {
+    "characterFull": "Raju",
+    "actor": "Akshay Kumar",
+    "movieFull": "Hera Pheri (2000)",
+    "hint": "Yeh Babu Rao ka style hai.",
+    "id": 40
+  },
+  {
+    "characterFull": "Rancho",
+    "actor": "",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "All is well.",
+    "id": 41
+  },
+  {
+    "characterFull": "Ranvijay Singh",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Animal (2023)",
+    "hint": "Papa ke liye kuch bhi.",
+    "id": 42
+  },
+  {
+    "characterFull": "Rohit Mehra",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Koi... Mil Gaya (2003)",
+    "hint": "Dhoop.",
+    "id": 43
+  },
+  {
+    "characterFull": "Shyam",
+    "actor": "Suniel Shetty",
+    "movieFull": "Hera Pheri (2000)",
+    "hint": "Paisa hi paisa hoga.",
+    "id": 44
+  },
+  {
+    "characterFull": "Simran Kaur",
+    "actor": "Kajol",
+    "movieFull": "Dilwale Dulhania Le Jayenge (1995)",
+    "hint": "Palat!",
+    "id": 45
+  },
+  {
+    "characterFull": "Sultan Ali Khan",
+    "actor": "Salman Khan",
+    "movieFull": "Sultan (2016)",
+    "hint": "Koi tumhe tab tak nahi hara sakta.",
+    "id": 46
+  },
+  {
+    "characterFull": "Test Character",
+    "actor": "tEST ACTOR",
+    "movieFull": "Test Movie",
+    "hint": "Test Dialogue",
+    "id": 47
+  },
+  {
+    "characterFull": "Uday Shetty",
+    "actor": "Nana Patekar",
+    "movieFull": "Welcome (2007)",
+    "hint": "Bhagwan ka diya sab kuch hai.",
+    "id": 48
+  },
+  {
+    "characterFull": "Veer Pratap Singh",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Veer-Zaara (2004)",
+    "hint": "Sachi mohabbat zindagi mein sirf ek baar hoti hai.",
+    "id": 49
+  },
+  {
+    "characterFull": "Veeru",
+    "actor": "Dharmendra",
+    "movieFull": "Sholay (1975)",
+    "hint": "Basanti, in kutton ke saamne mat naachna.",
+    "id": 50
+  },
+  {
+    "characterFull": "Vijay Dinanath Chauhan",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Agneepath (1990)",
+    "hint": "Naam Vijay Dinanath Chauhan.",
+    "id": 51
+  },
+  {
+    "characterFull": "Virus",
+    "actor": "",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "Life is a race.",
+    "id": 52
+  },
+  {
+    "characterFull": "Anjali Sharma",
+    "actor": "Kajol",
+    "movieFull": "Kuch Kuch Hota Hai (1998)",
+    "hint": "I love you, friend.",
+    "id": 53
+  },
+  {
+    "characterFull": "Sameer",
+    "actor": "Salman Khan",
+    "movieFull": "Hum Dil De Chuke Sanam (1999)",
+    "hint": "Agar tum mujhe yun hi dekhti rahi ... toh tumhe mujhse pyar ho jayega",
+    "id": 54
+  },
+  {
+    "characterFull": "Nandini",
+    "actor": "Aishwarya Rai",
+    "movieFull": "Hum Dil De Chuke Sanam (1999)",
+    "hint": "Kabhi kabhi insaan kuch nahi kehkar bhi ... sab kuch keh deta hai",
+    "id": 55
+  },
+  {
+    "characterFull": "Rahul Raichand",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kabhi Khushi Kabhie Gham (2001)",
+    "hint": "It is all about family.",
+    "id": 56
+  },
+  {
+    "characterFull": "Pooja (Poo)",
+    "actor": "Kareena Kapoor",
+    "movieFull": "Kabhi Khushi Kabhie Gham (2001)",
+    "hint": "A sassy, iconic one-liner (stylish attitude)",
+    "id": 57
+  },
+  {
+    "characterFull": "Akash Malhotra",
+    "actor": "Aamir Khan",
+    "movieFull": "Dil Chahta Hai (2001)",
+    "hint": "Long drives and friendship — famous vibe",
+    "id": 58
+  },
+  {
+    "characterFull": "Sameer Mulchandani",
+    "actor": "Saif Ali Khan",
+    "movieFull": "Dil Chahta Hai (2001)",
+    "hint": "Friendship banter and witty lines",
+    "id": 59
+  },
+  {
+    "characterFull": "Bhuvan Singh",
+    "actor": "Aamir Khan",
+    "movieFull": "Lagaan (2001)",
+    "hint": "Let us play cricket — versus the British.",
+    "id": 60
+  },
+  {
+    "characterFull": "Gauri",
+    "actor": "Gracy Singh",
+    "movieFull": "Lagaan (2001)",
+    "hint": "Supportive village spirit — iconic scene",
+    "id": 61
+  },
+  {
+    "characterFull": "Ranchoddas Shamaldas Chanchad (Rancho)",
+    "actor": "Aamir Khan",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "All izz well.",
+    "id": 62
+  },
+  {
+    "characterFull": "Professor Viru Sahastrabudhhe (Virus)",
+    "actor": "Boman Irani",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "Pressure vs learning — harsh principal lines (paraphrase)",
+    "id": 63
+  },
+  {
+    "characterFull": "Murli Prasad \"Munna Bhai\" Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Jadoo ki jhappi.",
+    "id": 64
+  },
+  {
+    "characterFull": "Murli Prasad \"Munna Bhai\" Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Lage Raho Munna Bhai (2006)",
+    "hint": "Gandhigiri karna seekho.",
+    "id": 66
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Live for today — key life line",
+    "id": 67
+  },
+  {
+    "characterFull": "Mohan Bhargava",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Swades (2004)",
+    "hint": "Main nahi manta ki hamara desh duniya ka sabse mahaan desh hai… lekin yeh zaroor manta hoon ki hum mein usse mahaan banane ki kshamata hai.",
+    "id": 69
+  },
+  {
+    "characterFull": "Debraj Sahai",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Black (2005)",
+    "hint": "Teaching with patience — famous mentor dialogue",
+    "id": 70
+  },
+  {
+    "characterFull": "Kabir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chak De! India (2007)",
+    "hint": "Chak de India!",
+    "id": 72
+  },
+  {
+    "characterFull": "Om Prakash Makhija / Om Kapoor",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Om Shanti Om (2007)",
+    "hint": "Itni shiddat se maine tumhe paane ki koshish ki hai... ki har zarre ne mujhe tumse milane ki saazish ki hai.",
+    "id": 73
+  },
+  {
+    "characterFull": "Sanjay Singhania",
+    "actor": "Aamir Khan",
+    "movieFull": "Ghajini (2008)",
+    "hint": "Vishvas aur ghamund mein bahut kum farak hai ... main kar sakta hoon, yeh mera vishvas hai ... sirf main hi kar sakta hoon, yeh mera ghamund",
+    "id": 74
+  },
+  {
+    "characterFull": "Chulbul Pandey",
+    "actor": "Salman Khan",
+    "movieFull": "Dabangg (2010)",
+    "hint": "Swagat nahi karoge hamara?",
+    "id": 75
+  },
+  {
+    "characterFull": "Rizwan Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "My Name Is Khan (2010)",
+    "hint": "My name is Khan, and I am not a terrorist.",
+    "id": 76
+  },
+  {
+    "characterFull": "Arjun Saluja",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Conquer your fear — famous vacation line",
+    "id": 77
+  },
+  {
+    "characterFull": "Janardan \"Jordan\" Jakhar",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Rockstar (2011)",
+    "hint": "I sing my pain — raw musician vibe",
+    "id": 78
+  },
+  {
+    "characterFull": "Murphy \"Barfi\" Johnson",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Barfi! (2012)",
+    "hint": "Life mein sabse bada risk hota hai… koi risk na lena.",
+    "id": 79
+  },
+  {
+    "characterFull": "Avinash \"Tiger\" Rathore",
+    "actor": "Salman Khan",
+    "movieFull": "Ek Tha Tiger (2012)",
+    "hint": "Shikar toh sab karte hain… lekin tiger se behtar shikar koi nahi karta.",
+    "id": 80
+  },
+  {
+    "characterFull": "Rahul Mithaiwala",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chennai Express (2013)",
+    "hint": "Unexpected journey to the south — comedic line",
+    "id": 81
+  },
+  {
+    "characterFull": "Pavan Kumar Chaturvedi",
+    "actor": "Salman Khan",
+    "movieFull": "Bajrangi Bhaijaan (2015)",
+    "hint": "Main us bachchi ko wapas uske ghar le jaunga.",
+    "id": 83
+  },
+  {
+    "characterFull": "Peshwa Bajirao",
+    "actor": "Ranveer Singh",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Cheete ki chal, baaj ki najar or bajirao ki talwar pe kabhi sandeh nahin krte, kabhi bhi mat de skti hai.",
+    "id": 84
+  },
+  {
+    "characterFull": "PK (name unknown)",
+    "actor": "Aamir Khan",
+    "movieFull": "PK (2014)",
+    "hint": "Why do people follow rituals? (curious outsider)",
+    "id": 85
+  },
+  {
+    "characterFull": "Rani Mehra",
+    "actor": "Kangana Ranaut",
+    "movieFull": "Queen (2014)",
+    "hint": "I will go on my own honeymoon — self-discovery line",
+    "id": 86
+  },
+  {
+    "characterFull": "Mahavir Singh Phogat",
+    "actor": "Aamir Khan",
+    "movieFull": "Dangal (2016)",
+    "hint": "Train your daughters to be champions (paraphrase)",
+    "id": 87
+  },
+  {
+    "characterFull": "Sultan Ali Khan",
+    "actor": "Salman Khan",
+    "movieFull": "Sultan (2016)",
+    "hint": "I will come back stronger — comeback line",
+    "id": 88
+  },
+  {
+    "characterFull": "Akash Saraf",
+    "actor": "Ayushmann Khurrana",
+    "movieFull": "Andhadhun (2018)",
+    "hint": "Kala aadmi ko bahut kuch deti hai ... lekin TDS bhi poora kaat leti hai",
+    "id": 89
+  },
+  {
+    "characterFull": "Kabir Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Kabir Singh (2019)",
+    "hint": "I will not let go of my love (intense line)",
+    "id": 91
+  },
+  {
+    "characterFull": "Kabir (Agent Kabir)",
+    "actor": "Hrithik Roshan",
+    "movieFull": "War (2019)",
+    "hint": "Stylish agent action — short taunt",
+    "id": 92
+  },
+  {
+    "characterFull": "Major Vihaan Singh Shergill",
+    "actor": "Vicky Kaushal",
+    "movieFull": "Uri: The Surgical Strike (2019)",
+    "hint": "Aaj humne jawab diya.",
+    "id": 93
+  },
+  {
+    "characterFull": "Alluri Sitarama Raju",
+    "actor": "Ram Charan",
+    "movieFull": "RRR (2022)",
+    "hint": "Ladki se baat karne ke liye rasta dhoondte nahi ... khud banate hai",
+    "id": 94
+  },
+  {
+    "characterFull": "Veer Sooryavanshi",
+    "actor": "Akshay Kumar",
+    "movieFull": "Sooryavanshi (2021)",
+    "hint": "Fight terrorism with style (short line)",
+    "id": 97
+  },
+  {
+    "characterFull": "Langda Tyagi",
+    "actor": "Saif Ali Khan",
+    "movieFull": "Omkara (2006)",
+    "hint": "Betrayal and vengeance — iconic menace",
+    "id": 101
+  },
+  {
+    "characterFull": "Ishaan Awasthi",
+    "actor": "Darsheel Safary",
+    "movieFull": "Taare Zameen Par (2007)",
+    "hint": "Ma'am the letters are dancing.",
+    "id": 102
+  },
+  {
+    "characterFull": "Siddharth Mehra (Sid)",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Wake Up Sid (2009)",
+    "hint": "Main apne dad ke bagair kya hoon? Meri khud ki pehchan kya h…Mujhe nahi pata mujhe naukri karni hai. Main janta hoon mujhe kuchh nahi aata, pata nahi mujhe kaun naukri dega. Par ab mujhe kaam karna hai bas",
+    "id": 103
+  },
+  {
+    "characterFull": "Vidya Bagchi",
+    "actor": "Vidya Balan",
+    "movieFull": "Kahaani (2012)",
+    "hint": "A pregnant woman searching for her husband in Kolkata",
+    "id": 105
+  },
+  {
+    "characterFull": "Tanhaji Malusare",
+    "actor": "Ajay Devgn",
+    "movieFull": "Tanhaji: The Unsung Warrior (2020)",
+    "hint": "Bravery in battle — short heroic line",
+    "id": 106
+  },
+  {
+    "characterFull": "Murad Ahmed (MC Sher)",
+    "actor": "Ranveer Singh",
+    "movieFull": "Gully Boy (2019)",
+    "hint": "From the gutters to the stage — rap rise line",
+    "id": 107
+  },
+  {
+    "characterFull": "Rohit Mehra",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Koi... Mil Gaya (2003)",
+    "hint": "Magical friendship with an alien (short hint)",
+    "id": 108
+  },
+  {
+    "characterFull": "Rohan (Hero)",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Krrish (2006)",
+    "hint": "Superhero reveal — brief heroic line",
+    "id": 109
+  },
+  {
+    "characterFull": "Simmba",
+    "actor": "Ranveer Singh",
+    "movieFull": "Simmba (2018)",
+    "hint": "Joh deto traas, tyancha mi gheto class",
+    "id": 111
+  },
+  {
+    "characterFull": "Zoya / Meera",
+    "actor": "Kajol/Alia",
+    "movieFull": "Dilwale (2015)",
+    "hint": "Dil toh har kisi ke paas hota hai… lekin sab dilwale nahi hote.",
+    "id": 112
+  },
+  {
+    "characterFull": "Ajay Devgn character (Omkara)",
+    "actor": "Ajay Devgn",
+    "movieFull": "Omkara (2006)",
+    "hint": "Raw and rustic betrayal hint",
+    "id": 114
+  },
+  {
+    "characterFull": "Rohit",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Kaho Naa... Pyaar Hai (2000)",
+    "hint": "Pyaar kiya nahi jaata… ho jaata hai.",
+    "id": 115
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Travel and dreams — famous line hint",
+    "id": 116
+  },
+  {
+    "characterFull": "Bajrangi (Bajrangi Bhaijaan)",
+    "actor": "Salman Khan",
+    "movieFull": "Bajrangi Bhaijaan (2015)",
+    "hint": "I will take her home — heartfelt line",
+    "id": 118
+  },
+  {
+    "characterFull": "Naina Talwar",
+    "actor": "Preity Zinta",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Live for today — heartfelt line",
+    "id": 120
+  },
+  {
+    "characterFull": "Rohit (cameo)",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Ra.One (2011)",
+    "hint": "Burai sang joh mel rachaya ... phir kabhi na chutte uska saaya",
+    "id": 121
+  },
+  {
+    "characterFull": "Kabir",
+    "actor": "Ajay Devgn",
+    "movieFull": "Drishyam (2015)",
+    "hint": "2 October, panaji, satsang of swami, pav bhaji, ATM",
+    "id": 122
+  },
+  {
+    "characterFull": "Rana",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Bhaag Milkha Bhaag (2013)",
+    "hint": "Run like your life depends on it — training line",
+    "id": 123
+  },
+  {
+    "characterFull": "Milkha Singh",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Bhaag Milkha Bhaag (2013)",
+    "hint": "Run! — iconic training push",
+    "id": 124
+  },
+  {
+    "characterFull": "Arjun",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Seize the day — famous line",
+    "id": 125
+  },
+  {
+    "characterFull": "Sultan (boxing)",
+    "actor": "Salman Khan",
+    "movieFull": "Sultan (2016)",
+    "hint": "I will fight for her — vow line",
+    "id": 126
+  },
+  {
+    "characterFull": "Zoya",
+    "actor": "Katrina Kaif",
+    "movieFull": "Ek Tha Tiger (2012)",
+    "hint": "Jis mohabbat mein deewangi na ho ... woh mohabbat hi nahi",
+    "id": 127
+  },
+  {
+    "characterFull": "Rani",
+    "actor": "Kangana Ranaut",
+    "movieFull": "Queen (2014)",
+    "hint": "Finding yourself after heartbreak",
+    "id": 128
+  },
+  {
+    "characterFull": "Poo",
+    "actor": "Kareena Kapoor",
+    "movieFull": "Kabhi Khushi Kabhie Gham (2001)",
+    "hint": "Kaun hai yeh, jisne dobara mud ke mujhe nahi dekha? Who is he?",
+    "id": 129
+  },
+  {
+    "characterFull": "Yashvardhan Raichand",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Kabhi Khushi Kabhie Gham (2001)",
+    "hint": "Keh diya na, bas keh diya.",
+    "id": 130
+  },
+  {
+    "characterFull": "Captain Russell",
+    "actor": "Paul Blackthorne",
+    "movieFull": "Lagaan (2001)",
+    "hint": "Teen guna lagaan dena padega.",
+    "id": 131
+  },
+  {
+    "characterFull": "Akash",
+    "actor": "Aamir Khan",
+    "movieFull": "Dil Chahta Hai (2001)",
+    "hint": "Ya toh dosti gehri hai, ya yeh photo 3D hai.",
+    "id": 132
+  },
+  {
+    "characterFull": "Devdas",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Devdas (2002)",
+    "hint": "Babuji ne kaha gaon chhod do… sab ne kaha Paro ko chhod do… Paro ne kaha sharab chhod do. Aaj tumne keh diya haweli chhod do… ek din aayega jab woh kahenge, duniya hi chhod do",
+    "id": 133
+  },
+  {
+    "characterFull": "Devdas",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Devdas (2002)",
+    "hint": "Aurat maa hoti hai, behen hoti hai, patni hoti hai, dost hoti hai...",
+    "id": 134
+  },
+  {
+    "characterFull": "Paro",
+    "actor": "Aishwarya Rai",
+    "movieFull": "Devdas (2002)",
+    "hint": "Kitni aasani se ginwa diya ki naukre ki daulat mere dard se badi hai.",
+    "id": 135
+  },
+  {
+    "characterFull": "Murli Prasad Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Tension lene ka nahi, sirf dene ka.",
+    "id": 136
+  },
+  {
+    "characterFull": "Rustom's Father",
+    "actor": "Kurush Deboo",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Carrom ramwanu, juice pivanu, majja ni life.",
+    "id": 137
+  },
+  {
+    "characterFull": "Murli Prasad Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Munna Bhai M.B.B.S. (2003)",
+    "hint": "Woh bahar casualty mein koi marne ki halat mein raha toh usko form bharna zaroori hai kya?",
+    "id": 138
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Jiyo, khush raho, muskurao... kya pata kal ho naa ho.",
+    "id": 139
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Pyaar toh bahut log karte hain, lekin mere jaisa pyaar koi nahi kar sakta...",
+    "id": 140
+  },
+  {
+    "characterFull": "Aman Mathur",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Kal Ho Naa Ho (2003)",
+    "hint": "Main aankhein band karta hoon toh tumhe dekhta hoon, aankhein kholta hoon toh tumhe dekhna chahta hoon. Tum paas nahin hoti toh tumhe charon taraf mehsoos karta hoon. Har pal har ghadi har waqt mere naina meri Naina ko doondhte hain.",
+    "id": 141
+  },
+  {
+    "characterFull": "Rohit",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Koi... Mil Gaya (2003)",
+    "hint": "Mujhe kuch dikhai nahi de raha maa.",
+    "id": 142
+  },
+  {
+    "characterFull": "Ram Prasad Sharma",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Main Hoon Na (2004)",
+    "hint": "Nafrat ko sirf mohabbat se jeeta jaa sakta hai.",
+    "id": 143
+  },
+  {
+    "characterFull": "Ram Prasad Sharma",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Main Hoon Na (2004)",
+    "hint": "Mera naam Ram hai, Ram Prasad Sharma.",
+    "id": 144
+  },
+  {
+    "characterFull": "Bunty",
+    "actor": "Abhishek Bachchan",
+    "movieFull": "Bunty Aur Babli (2005)",
+    "hint": "Duniya mein do tarah ke log hote hain...",
+    "id": 145
+  },
+  {
+    "characterFull": "DJ",
+    "actor": "Aamir Khan",
+    "movieFull": "Rang De Basanti (2006)",
+    "hint": "Koi bhi desh perfect nahi hota, usse perfect banana padta hai.",
+    "id": 146
+  },
+  {
+    "characterFull": "DJ",
+    "actor": "Aamir Khan",
+    "movieFull": "Rang De Basanti (2006)",
+    "hint": "Ab bhi jiska khoon na khaula, khoon nahi wo paani hai.",
+    "id": 147
+  },
+  {
+    "characterFull": "Raju",
+    "actor": "Akshay Kumar",
+    "movieFull": "Phir Hera Pheri (2006)",
+    "hint": "Paisa laya?",
+    "id": 148
+  },
+  {
+    "characterFull": "Raju",
+    "actor": "Akshay Kumar",
+    "movieFull": "Phir Hera Pheri (2006)",
+    "hint": "Zor zor bolke logon ko schemein bata de!",
+    "id": 149
+  },
+  {
+    "characterFull": "Kachra Seth",
+    "actor": "Manoj Joshi",
+    "movieFull": "Phir Hera Pheri (2006)",
+    "hint": "Dedh sau rupiya dega.",
+    "id": 150
+  },
+  {
+    "characterFull": "Shyam",
+    "actor": "Suniel Shetty",
+    "movieFull": "Phir Hera Pheri (2006)",
+    "hint": "Mere anuradha aisi nahi hai.",
+    "id": 151
+  },
+  {
+    "characterFull": "Murli Prasad Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Lage Raho Munna Bhai (2006)",
+    "hint": "Bole toh, Gandhigiri.",
+    "id": 152
+  },
+  {
+    "characterFull": "Murli Prasad Sharma",
+    "actor": "Sanjay Dutt",
+    "movieFull": "Lage Raho Munna Bhai (2006)",
+    "hint": "Desh toh apna ho gaya hai, par log paraye ho gaye hain.",
+    "id": 153
+  },
+  {
+    "characterFull": "Shantipriya",
+    "actor": "Deepika Padukone",
+    "movieFull": "Om Shanti Om (2007)",
+    "hint": "Ek chutki sindoor ki keemat tum kya jano Ramesh babu.",
+    "id": 154
+  },
+  {
+    "characterFull": "Om Prakash Makhija",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Om Shanti Om (2007)",
+    "hint": "Kehte hain agar kisi cheez ko dil se chaho, toh poori kainaat usse tumse milane ki koshish mein lag jaati hai.",
+    "id": 155
+  },
+  {
+    "characterFull": "Om Prakash Makhija",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Om Shanti Om (2007)",
+    "hint": "Hamari filmon ki tarah hamari zindagi mein bhi end tak sab theek ho hi jaata hai.",
+    "id": 156
+  },
+  {
+    "characterFull": "Kabir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chak De! India (2007)",
+    "hint": "Sattar minute, sattar minute hai tumhare paas.",
+    "id": 157
+  },
+  {
+    "characterFull": "Kabir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chak De! India (2007)",
+    "hint": "Mujhe states ke naam na sunai dete hain na dikhai dete hain...",
+    "id": 158
+  },
+  {
+    "characterFull": "Kabir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chak De! India (2007)",
+    "hint": "Vaar karna hai toh samne wale ke goal par nahi, uske dimaag par karo.",
+    "id": 159
+  },
+  {
+    "characterFull": "Geet Dhillon",
+    "actor": "Kareena Kapoor",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Main apni favourite hoon.",
+    "id": 160
+  },
+  {
+    "characterFull": "Geet Dhillon",
+    "actor": "Kareena Kapoor",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Sikhni hoon main Bhatinda ki.",
+    "id": 161
+  },
+  {
+    "characterFull": "Station Master",
+    "actor": "Asif Basra",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Akeli ladki khuli hui tijori ki tarah hoti hai.",
+    "id": 162
+  },
+  {
+    "characterFull": "Aditya Kashyap",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Jab We Met (2007)",
+    "hint": "Jo kuch insaan chahta hai, agar wo usey dil se mange... toh ho hi jata hai.",
+    "id": 163
+  },
+  {
+    "characterFull": "Uday Shetty",
+    "actor": "Nana Patekar",
+    "movieFull": "Welcome (2007)",
+    "hint": "Control Uday, control.",
+    "id": 164
+  },
+  {
+    "characterFull": "Uday Shetty",
+    "actor": "Nana Patekar",
+    "movieFull": "Welcome (2007)",
+    "hint": "Aloo lelo, kanda lelo...",
+    "id": 165
+  },
+  {
+    "characterFull": "Majnu Bhai",
+    "actor": "Anil Kapoor",
+    "movieFull": "Welcome (2007)",
+    "hint": "Seh lenge thoda.",
+    "id": 166
+  },
+  {
+    "characterFull": "Rajiv",
+    "actor": "Akshay Kumar",
+    "movieFull": "Welcome (2007)",
+    "hint": "Miracle, miracle!",
+    "id": 167
+  },
+  {
+    "characterFull": "Uday Shetty",
+    "actor": "Nana Patekar",
+    "movieFull": "Welcome (2007)",
+    "hint": "Subah se na ek aloo bika hai, na bika hai aadha kanda.",
+    "id": 168
+  },
+  {
+    "characterFull": "Ram Shankar Nikumbh",
+    "actor": "Aamir Khan",
+    "movieFull": "Taare Zameen Par (2007)",
+    "hint": "Har bachche ki apni ek khasiyat hoti hai, apni ek taqat hoti hai.",
+    "id": 169
+  },
+  {
+    "characterFull": "Adi",
+    "actor": "Arshad Warsi",
+    "movieFull": "Dhamaal (2007)",
+    "hint": "Paisa kahan hai W ke neeche?",
+    "id": 170
+  },
+  {
+    "characterFull": "Common Man",
+    "actor": "Naseeruddin Shah",
+    "movieFull": "A Wednesday (2008)",
+    "hint": "I am just a stupid common man.",
+    "id": 171
+  },
+  {
+    "characterFull": "Meghna Mathur",
+    "actor": "Priyanka Chopra",
+    "movieFull": "Fashion (2008)",
+    "hint": "Success ki seedhi chadte waqt dhyaan rakhna chahiye...",
+    "id": 172
+  },
+  {
+    "characterFull": "Rancho",
+    "actor": "Aamir Khan",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "Success ke peeche mat bhago, excellence ka peecha karo... success jhak maar ke tumhare peeche aayegi.",
+    "id": 173
+  },
+  {
+    "characterFull": "Farhan Qureshi",
+    "actor": "R. Madhavan",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "Dost fail ho jaye toh dukh hota hai, lekin dost first aa jaye toh zyada dukh hota hai.",
+    "id": 174
+  },
+  {
+    "characterFull": "Rancho/Farhan/Raju",
+    "actor": "Aamir/Madhavan/Sharman",
+    "movieFull": "3 Idiots (2009)",
+    "hint": "Jahapanah tussi great ho, tohfa kubool karo.",
+    "id": 175
+  },
+  {
+    "characterFull": "Radhe",
+    "actor": "Salman Khan",
+    "movieFull": "Wanted (2009)",
+    "hint": "Tu ladki ke peeche bhagega, ladki paise ke peeche bhagegi...",
+    "id": 176
+  },
+  {
+    "characterFull": "Sid",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Wake Up Sid (2009)",
+    "hint": "Goal toh mera ek hi hai... kuch ban jaaun.",
+    "id": 177
+  },
+  {
+    "characterFull": "Rajjo",
+    "actor": "Sonakshi Sinha",
+    "movieFull": "Dabangg (2010)",
+    "hint": "Thappad se darr nahi lagta sahab, pyaar se lagta hai.",
+    "id": 178
+  },
+  {
+    "characterFull": "Chulbul Pandey",
+    "actor": "Salman Khan",
+    "movieFull": "Dabangg (2010)",
+    "hint": "Hum yahan ke Robinhood hain... Robinhood Pandey.",
+    "id": 179
+  },
+  {
+    "characterFull": "Makhi",
+    "actor": "Arbaaz Khan",
+    "movieFull": "Dabangg (2010)",
+    "hint": "Kamaal karte ho Pandey ji.",
+    "id": 180
+  },
+  {
+    "characterFull": "Rizwan Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "My Name Is Khan (2010)",
+    "hint": "Duniya mein sirf do tarah ke insaan hote hain... acche aur bure.",
+    "id": 181
+  },
+  {
+    "characterFull": "Sultan Mirza",
+    "actor": "Ajay Devgn",
+    "movieFull": "Once Upon a Time in Mumbaai (2010)",
+    "hint": "Dua mein yaad rakhna.",
+    "id": 182
+  },
+  {
+    "characterFull": "Sultan Mirza",
+    "actor": "Ajay Devgn",
+    "movieFull": "Once Upon a Time in Mumbaai (2010)",
+    "hint": "Jab dost banake kaam ho sakta hai toh dushman kyun banaye.",
+    "id": 183
+  },
+  {
+    "characterFull": "Bajirao Singham",
+    "actor": "Ajay Devgn",
+    "movieFull": "Singham (2011)",
+    "hint": "Aata majhi satakli.",
+    "id": 184
+  },
+  {
+    "characterFull": "Bajirao Singham",
+    "actor": "Ajay Devgn",
+    "movieFull": "Singham (2011)",
+    "hint": "Kismein kitna hai dum...",
+    "id": 185
+  },
+  {
+    "characterFull": "Silk",
+    "actor": "Vidya Balan",
+    "movieFull": "The Dirty Picture (2011)",
+    "hint": "Filmein sirf teen cheezon ki wajah se chalti hain: entertainment, entertainment, entertainment.",
+    "id": 186
+  },
+  {
+    "characterFull": "Silk",
+    "actor": "Vidya Balan",
+    "movieFull": "The Dirty Picture (2011)",
+    "hint": "Jab zindagi ek baar mili hai, toh do baar kyun soche?",
+    "id": 187
+  },
+  {
+    "characterFull": "Imran",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Dilon mein tum apni betabiyan leke chal rahe ho toh zinda ho tum.",
+    "id": 188
+  },
+  {
+    "characterFull": "Laila",
+    "actor": "Katrina Kaif",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Seize the day my friend.",
+    "id": 189
+  },
+  {
+    "characterFull": "Imran",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Insaan ka kartavya hota hai koshish karna.",
+    "id": 190
+  },
+  {
+    "characterFull": "Kabir",
+    "actor": "Abhay Deol",
+    "movieFull": "Zindagi Na Milegi Dobara (2011)",
+    "hint": "Apne kaam ko apna junoon bana lo.",
+    "id": 191
+  },
+  {
+    "characterFull": "Khatana",
+    "actor": "Kumud Mishra",
+    "movieFull": "Rockstar (2011)",
+    "hint": "Toote hue dil se hi sangeet nikalta hai.",
+    "id": 192
+  },
+  {
+    "characterFull": "Rajat",
+    "actor": "Kartik Aaryan",
+    "movieFull": "Pyaar Ka Punchnama (2011)",
+    "hint": "Problem yeh hai ki main chahta hoon meri life mein koi problem na ho.",
+    "id": 193
+  },
+  {
+    "characterFull": "Don",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Don 2 (2011)",
+    "hint": "Don ke dushman ki sabse badi ghalti yeh hai ki wo Don ka dushman hai.",
+    "id": 194
+  },
+  {
+    "characterFull": "Vijay Chauhan",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Agneepath (2012)",
+    "hint": "Naam Vijay Dinanath Chauhan, poora naam.",
+    "id": 195
+  },
+  {
+    "characterFull": "Ramadhir Singh",
+    "actor": "Tigmanshu Dhulia",
+    "movieFull": "Gangs of Wasseypur (2012)",
+    "hint": "Tumse na ho payega.",
+    "id": 196
+  },
+  {
+    "characterFull": "Faizal Khan",
+    "actor": "Nawazuddin Siddiqui",
+    "movieFull": "Gangs of Wasseypur (2012)",
+    "hint": "Baap ka, dada ka, bhai ka, sabka badla lega re tera Faizal.",
+    "id": 197
+  },
+  {
+    "characterFull": "Ramadhir Singh",
+    "actor": "Tigmanshu Dhulia",
+    "movieFull": "Gangs of Wasseypur (2012)",
+    "hint": "Jab tak is desh mein cinema hai, log chutiye bante rahenge.",
+    "id": 198
+  },
+  {
+    "characterFull": "Sardar Khan",
+    "actor": "Manoj Bajpayee",
+    "movieFull": "Gangs of Wasseypur (2012)",
+    "hint": "Goli nahi marenge, keh ke lenge.",
+    "id": 199
+  },
+  {
+    "characterFull": "Faizal Khan",
+    "actor": "Nawazuddin Siddiqui",
+    "movieFull": "Gangs of Wasseypur (2012)",
+    "hint": "Permission leni chahiye thi na.",
+    "id": 200
+  },
+  {
+    "characterFull": "Shiva",
+    "actor": "Akshay Kumar",
+    "movieFull": "Rowdy Rathore (2012)",
+    "hint": "Don't angry me.",
+    "id": 201
+  },
+  {
+    "characterFull": "Shiva",
+    "actor": "Akshay Kumar",
+    "movieFull": "Rowdy Rathore (2012)",
+    "hint": "Jo main bolta hoon wo main karta hoon, aur jo main nahi bolta wo main definitely karta hoon.",
+    "id": 202
+  },
+  {
+    "characterFull": "Tiger",
+    "actor": "Salman Khan",
+    "movieFull": "Ek Tha Tiger (2012)",
+    "hint": "Sher soya hua hai, usko mat jagao.",
+    "id": 203
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Kahin pe pahunchne ke liye kahin se nikalna bahut zaroori hota hai.",
+    "id": 204
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Main udna chahta hoon, daudna chahta hoon... bas rukna nahi chahta.",
+    "id": 205
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Tum pehle bhi itni khoobsurat thi ya waqt ne kiya koi haseen sitam?",
+    "id": 206
+  },
+  {
+    "characterFull": "Naina",
+    "actor": "Deepika Padukone",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Kuch logon ke saath sirf waqt bitane se hi sab theek ho jata hai.",
+    "id": 207
+  },
+  {
+    "characterFull": "Naina",
+    "actor": "Deepika Padukone",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Yaadein mithai ke dibbe ki tarah hoti hain, ek baar khula toh sirf ek tukda nahi kha paoge.",
+    "id": 208
+  },
+  {
+    "characterFull": "Bunny",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Yeh Jawaani Hai Deewani (2013)",
+    "hint": "Waqt rukta nahi, beet jata hai.",
+    "id": 209
+  },
+  {
+    "characterFull": "Rahul",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chennai Express (2013)",
+    "hint": "Don't underestimate the power of a common man.",
+    "id": 210
+  },
+  {
+    "characterFull": "Meenamma",
+    "actor": "Deepika Padukone",
+    "movieFull": "Chennai Express (2013)",
+    "hint": "Kahan se kharidi aisi bakwas dictionary?",
+    "id": 211
+  },
+  {
+    "characterFull": "Rahul",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Chennai Express (2013)",
+    "hint": "Ready steady po!",
+    "id": 212
+  },
+  {
+    "characterFull": "Milkha Singh",
+    "actor": "Farhan Akhtar",
+    "movieFull": "Bhaag Milkha Bhaag (2013)",
+    "hint": "Yeh aapki aakhri race ho sakti hai. Daudunga bhi waise hi.",
+    "id": 213
+  },
+  {
+    "characterFull": "Kundan",
+    "actor": "Dhanush",
+    "movieFull": "Raanjhanaa (2013)",
+    "hint": "Namaz mein wo thi, par dua hamari qubool ho gayi.",
+    "id": 214
+  },
+  {
+    "characterFull": "Kundan",
+    "actor": "Dhanush",
+    "movieFull": "Raanjhanaa (2013)",
+    "hint": "Aashiq ki aadhi jaan toh uski sacchi kahani banne mein nikal jati hai.",
+    "id": 215
+  },
+  {
+    "characterFull": "Ram",
+    "actor": "Ranveer Singh",
+    "movieFull": "Goliyon Ki Raasleela Ram-Leela (2013)",
+    "hint": "Jigar pe mat jaa, trigger daba dunga.",
+    "id": 216
+  },
+  {
+    "characterFull": "Sahir",
+    "actor": "Aamir Khan",
+    "movieFull": "Dhoom 3 (2013)",
+    "hint": "Bande hain hum uske, hum pe kiska zor.",
+    "id": 217
+  },
+  {
+    "characterFull": "Rahul",
+    "actor": "Aditya Roy Kapur",
+    "movieFull": "Aashiqui 2 (2013)",
+    "hint": "Pyaar, mohabbat, aashiqui sirf lafzon ke siva aur kuch nahi...",
+    "id": 218
+  },
+  {
+    "characterFull": "Rani",
+    "actor": "Kangana Ranaut",
+    "movieFull": "Queen (2014)",
+    "hint": "Mera toh itna life kharab ho gaya hai.",
+    "id": 219
+  },
+  {
+    "characterFull": "Rani",
+    "actor": "Kangana Ranaut",
+    "movieFull": "Queen (2014)",
+    "hint": "Indian ladkiyan best hoti hain.",
+    "id": 220
+  },
+  {
+    "characterFull": "PK",
+    "actor": "Aamir Khan",
+    "movieFull": "PK (2014)",
+    "hint": "Kaun sa wrong number pe call lag gaya hai?",
+    "id": 221
+  },
+  {
+    "characterFull": "PK",
+    "actor": "Aamir Khan",
+    "movieFull": "PK (2014)",
+    "hint": "Ee gola pe ehi to confusion hai.",
+    "id": 222
+  },
+  {
+    "characterFull": "Devi Lal Singh",
+    "actor": "Salman Khan",
+    "movieFull": "Kick (2014)",
+    "hint": "Mere bare mein itna mat sochna, dil mein aata hoon, samajh mein nahi.",
+    "id": 223
+  },
+  {
+    "characterFull": "Devi Lal Singh",
+    "actor": "Salman Khan",
+    "movieFull": "Kick (2014)",
+    "hint": "Aap devil ke peeche, devil aapke peeche... Too much fun.",
+    "id": 224
+  },
+  {
+    "characterFull": "Haider",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Haider (2014)",
+    "hint": "Hum hain ki hum nahi.",
+    "id": 225
+  },
+  {
+    "characterFull": "Guru",
+    "actor": "Sidharth Malhotra",
+    "movieFull": "Ek Villain (2014)",
+    "hint": "Andhere ko andhera nahi, sirf roshni mita sakti hai.",
+    "id": 226
+  },
+  {
+    "characterFull": "Charlie",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Happy New Year (2014)",
+    "hint": "Kismat badi kutti cheez hai, saali kabhi bhi palat sakti hai.",
+    "id": 227
+  },
+  {
+    "characterFull": "Bajirao",
+    "actor": "Ranveer Singh",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Bajirao ne Mastani se mohabbat ki hai, aiyashi nahi.",
+    "id": 228
+  },
+  {
+    "characterFull": "Mastani",
+    "actor": "Deepika Padukone",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Aapne dil maanga hota toh de dete, aapne toh hamara guroor hi maang liya.",
+    "id": 229
+  },
+  {
+    "characterFull": "Kashibai",
+    "actor": "Priyanka Chopra",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Kashibai ki jaan nikale toh bhi aapki dhadkan mein Kashi ka naam dhadkega.",
+    "id": 230
+  },
+  {
+    "characterFull": "Bajirao",
+    "actor": "Ranveer Singh",
+    "movieFull": "Bajirao Mastani (2015)",
+    "hint": "Cheete ki chaal, baaz ki nazar, aur Bajirao ki talwar par sandeh nahi karte.",
+    "id": 231
+  },
+  {
+    "characterFull": "Datto",
+    "actor": "Kangana Ranaut",
+    "movieFull": "Tanu Weds Manu Returns (2015)",
+    "hint": "Kya Sharma ji, hum thode bewafa kya hue, aap toh badchalan hi ho gaye.",
+    "id": 232
+  },
+  {
+    "characterFull": "Pappi",
+    "actor": "Deepak Dobriyal",
+    "movieFull": "Tanu Weds Manu Returns (2015)",
+    "hint": "Adrak ho gaya hai ye aadmi, kahin se bhi badh raha hai.",
+    "id": 233
+  },
+  {
+    "characterFull": "Ved",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Tamasha (2015)",
+    "hint": "Ek din main bilkul theek ho jaunga.",
+    "id": 234
+  },
+  {
+    "characterFull": "Ved",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Tamasha (2015)",
+    "hint": "Bachpan se hi acting ka shauk hai.",
+    "id": 235
+  },
+  {
+    "characterFull": "Rana",
+    "actor": "Irrfan Khan",
+    "movieFull": "Piku (2015)",
+    "hint": "Death aur shit... ye do cheezein kisi ko bhi, kahin bhi, kabhi bhi aa sakti hain.",
+    "id": 236
+  },
+  {
+    "characterFull": "Bhaskor Banerjee",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Piku (2015)",
+    "hint": "Insaan ka emotion uska motion ke saath juda hua hai.",
+    "id": 237
+  },
+  {
+    "characterFull": "Mahavir Singh Phogat",
+    "actor": "Aamir Khan",
+    "movieFull": "Dangal (2016)",
+    "hint": "Mhari chhoriyan chhoron se kam hain ke?",
+    "id": 238
+  },
+  {
+    "characterFull": "Mahavir Singh Phogat",
+    "actor": "Aamir Khan",
+    "movieFull": "Dangal (2016)",
+    "hint": "Medal ped pe nahi ughte, unhe banana padta hai...",
+    "id": 239
+  },
+  {
+    "characterFull": "Mahavir Singh Phogat",
+    "actor": "Aamir Khan",
+    "movieFull": "Dangal (2016)",
+    "hint": "Gold toh gold hota hai, chhora laave ya chhori.",
+    "id": 240
+  },
+  {
+    "characterFull": "Sultan",
+    "actor": "Salman Khan",
+    "movieFull": "Sultan (2016)",
+    "hint": "Sultan ko sirf ek hi aadmi hara sakta hai, aur woh hai Sultan khud.",
+    "id": 241
+  },
+  {
+    "characterFull": "Sultan",
+    "actor": "Salman Khan",
+    "movieFull": "Sultan (2016)",
+    "hint": "Asli pehlwaan ki pehchaan akhade mein nahi, zindagi mein hoti hai.",
+    "id": 242
+  },
+  {
+    "characterFull": "Deepak Sehgal",
+    "actor": "Amitabh Bachchan",
+    "movieFull": "Pink (2016)",
+    "hint": "'No' is a complete sentence.",
+    "id": 243
+  },
+  {
+    "characterFull": "Ayan",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Ae Dil Hai Mushkil (2016)",
+    "hint": "Ek tarfa pyaar ki taqat hi kuch aur hoti hai... uspar kisi aur ka haq nahi hota.",
+    "id": 244
+  },
+  {
+    "characterFull": "Ayan",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Ae Dil Hai Mushkil (2016)",
+    "hint": "Pyar dosti hai.",
+    "id": 245
+  },
+  {
+    "characterFull": "Dr. Jehangir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Dear Zindagi (2016)",
+    "hint": "Don't let the past blackmail your present to ruin a beautiful future.",
+    "id": 246
+  },
+  {
+    "characterFull": "Dr. Jehangir Khan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Dear Zindagi (2016)",
+    "hint": "Hum itni kursiyan dekhte hain kharidne se pehle, toh life partner choose karne se pehle options kyun nahi?",
+    "id": 247
+  },
+  {
+    "characterFull": "Raees",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Raees (2017)",
+    "hint": "Ammi jaan kehti thi, koi dhanda chhota nahi hota aur dhande se bada koi dharam nahi hota.",
+    "id": 248
+  },
+  {
+    "characterFull": "Raees",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Raees (2017)",
+    "hint": "Baniye ka dimaag aur miyanbhai ki daring.",
+    "id": 249
+  },
+  {
+    "characterFull": "Raees",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Raees (2017)",
+    "hint": "Agar dhanda shanti se chal raha ho toh use chhedne ka nahi.",
+    "id": 250
+  },
+  {
+    "characterFull": "Badrinath",
+    "actor": "Varun Dhawan",
+    "movieFull": "Badrinath Ki Dulhania (2017)",
+    "hint": "Pyar ka hisaab maths ke isoolon par nahi chalta.",
+    "id": 251
+  },
+  {
+    "characterFull": "Keshav",
+    "actor": "Akshay Kumar",
+    "movieFull": "Toilet: Ek Prem Katha (2017)",
+    "hint": "Aashiqon ne toh aashiqui mein Taj Mahal bana diya, hum ek sandas na bana sake.",
+    "id": 252
+  },
+  {
+    "characterFull": "Tiger",
+    "actor": "Salman Khan",
+    "movieFull": "Tiger Zinda Hai (2017)",
+    "hint": "Shikaar toh sab karte hain, lekin Tiger se behtar shikaar koi nahi karta.",
+    "id": 253
+  },
+  {
+    "characterFull": "Raj",
+    "actor": "Irrfan Khan",
+    "movieFull": "Hindi Medium (2017)",
+    "hint": "My life is Hindi, but my wife is English.",
+    "id": 254
+  },
+  {
+    "characterFull": "Padmavati",
+    "actor": "Deepika Padukone",
+    "movieFull": "Padmaavat (2018)",
+    "hint": "Rajputi kangan mein utni hi taqat hai jitni Rajputi talwar mein.",
+    "id": 255
+  },
+  {
+    "characterFull": "Maharawal Ratan Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Padmaavat (2018)",
+    "hint": "Keh dijiye apne sultan se, unki talwar se zyada dhar hamare tevar mein hai.",
+    "id": 256
+  },
+  {
+    "characterFull": "Alauddin Khilji",
+    "actor": "Ranveer Singh",
+    "movieFull": "Padmaavat (2018)",
+    "hint": "Alauddin ke paas sabkuch hai, bas ek Rajput ka dil nahi hai.",
+    "id": 257
+  },
+  {
+    "characterFull": "Maharawal Ratan Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Padmaavat (2018)",
+    "hint": "Jab Rajput apne desh, apni dharti ke liye ladta hai, toh maut bhi usse ghabrati hai.",
+    "id": 258
+  },
+  {
+    "characterFull": "Sanju",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Sanju (2018)",
+    "hint": "Ustaad, wo bahar log marne wale hain...",
+    "id": 259
+  },
+  {
+    "characterFull": "Sunil Dutt",
+    "actor": "Paresh Rawal",
+    "movieFull": "Sanju (2018)",
+    "hint": "Mera beta badmash hai, par terrorist nahi.",
+    "id": 260
+  },
+  {
+    "characterFull": "Kamli",
+    "actor": "Vicky Kaushal",
+    "movieFull": "Sanju (2018)",
+    "hint": "Tiger hai tu Tiger... Roar!",
+    "id": 261
+  },
+  {
+    "characterFull": "Vicky",
+    "actor": "Rajkummar Rao",
+    "movieFull": "Stree (2018)",
+    "hint": "O Stree kal aana.",
+    "id": 262
+  },
+  {
+    "characterFull": "Vicky",
+    "actor": "Rajkummar Rao",
+    "movieFull": "Stree (2018)",
+    "hint": "Wo stree hai, wo kuch bhi kar sakti hai.",
+    "id": 263
+  },
+  {
+    "characterFull": "Akash",
+    "actor": "Ayushmann Khurrana",
+    "movieFull": "Andhadhun (2018)",
+    "hint": "Kuch cheezein aisi hoti hain, jo sirf andhe dekh sakte hain.",
+    "id": 264
+  },
+  {
+    "characterFull": "Nakul",
+    "actor": "Ayushmann Khurrana",
+    "movieFull": "Badhaai Ho (2018)",
+    "hint": "Bhaijaan, family ki baat alag hoti hai.",
+    "id": 265
+  },
+  {
+    "characterFull": "Bauaa Singh",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Zero (2018)",
+    "hint": "Zindagi mein jab zero bada ho jaata hai, toh hero banne mein time nahi lagta.",
+    "id": 266
+  },
+  {
+    "characterFull": "Major Vihaan",
+    "actor": "Vicky Kaushal",
+    "movieFull": "Uri: The Surgical Strike (2019)",
+    "hint": "How's the josh? High Sir!",
+    "id": 267
+  },
+  {
+    "characterFull": "Major Vihaan",
+    "actor": "Vicky Kaushal",
+    "movieFull": "Uri: The Surgical Strike (2019)",
+    "hint": "Yeh naya India hai. Yeh ghar mein ghusega bhi aur marega bhi.",
+    "id": 268
+  },
+  {
+    "characterFull": "Major Vihaan",
+    "actor": "Vicky Kaushal",
+    "movieFull": "Uri: The Surgical Strike (2019)",
+    "hint": "Unhe Kashmir chahiye, aur hume unka sar.",
+    "id": 269
+  },
+  {
+    "characterFull": "Murad",
+    "actor": "Ranveer Singh",
+    "movieFull": "Gully Boy (2019)",
+    "hint": "Apna time aayega.",
+    "id": 270
+  },
+  {
+    "characterFull": "Safeena",
+    "actor": "Alia Bhatt",
+    "movieFull": "Gully Boy (2019)",
+    "hint": "Mere boyfriend se gulu gulu karegi toh dhoptungi na usko.",
+    "id": 271
+  },
+  {
+    "characterFull": "MC Sher",
+    "actor": "Siddhant Chaturvedi",
+    "movieFull": "Gully Boy (2019)",
+    "hint": "Tum agar sab kuch thik hone ka wait karoge, toh apni poori life ushi mein nikal jayegi.",
+    "id": 272
+  },
+  {
+    "characterFull": "Kabir Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Kabir Singh (2019)",
+    "hint": "Preeti meri hai!",
+    "id": 273
+  },
+  {
+    "characterFull": "Kabir Singh",
+    "actor": "Shahid Kapoor",
+    "movieFull": "Kabir Singh (2019)",
+    "hint": "I am not a rebel without a cause.",
+    "id": 274
+  },
+  {
+    "characterFull": "Anand Kumar",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Super 30 (2019)",
+    "hint": "Ab raja ka beta raja nahi banega, raja wahi banega jo haqdaar hoga.",
+    "id": 275
+  },
+  {
+    "characterFull": "Anand Kumar",
+    "actor": "Hrithik Roshan",
+    "movieFull": "Super 30 (2019)",
+    "hint": "Udaan toh bharni hi hai, chahe kitni baar bhi girna pade.",
+    "id": 276
+  },
+  {
+    "characterFull": "Kabir",
+    "actor": "Hrithik Roshan",
+    "movieFull": "War (2019)",
+    "hint": "Ghar mein ghuske marunga.",
+    "id": 277
+  },
+  {
+    "characterFull": "Ayan Ranjan",
+    "actor": "Ayushmann Khurrana",
+    "movieFull": "Article 15 (2019)",
+    "hint": "Hum unhe Harijan bolte hain aur woh hume unka bhagwan samajhte hain.",
+    "id": 278
+  },
+  {
+    "characterFull": "Anni",
+    "actor": "Sushant Singh Rajput",
+    "movieFull": "Chhichhore (2019)",
+    "hint": "Hum haar jeet, success failure mein itne ulajh gaye hain ki zindagi jeena bhool gaye hain.",
+    "id": 279
+  },
+  {
+    "characterFull": "Sexa",
+    "actor": "Varun Sharma",
+    "movieFull": "Chhichhore (2019)",
+    "hint": "Sachche dost woh hote hain jo tumhari beizzati mein bhi saath khade hote hain.",
+    "id": 280
+  },
+  {
+    "characterFull": "Dr. Joshi",
+    "actor": "Adil Hussain",
+    "movieFull": "Good Newwz (2019)",
+    "hint": "Aapki wife ki report mein error nahi, terror hai.",
+    "id": 281
+  },
+  {
+    "characterFull": "Tanhaji",
+    "actor": "Ajay Devgn",
+    "movieFull": "Tanhaji (2020)",
+    "hint": "Har Maratha pagal hai, Swaraj ka, Shivaji Raje ka.",
+    "id": 282
+  },
+  {
+    "characterFull": "Tanhaji",
+    "actor": "Ajay Devgn",
+    "movieFull": "Tanhaji (2020)",
+    "hint": "Ghamand nahi, garv hai mujhe apne Maratha hone par.",
+    "id": 283
+  },
+  {
+    "characterFull": "Sattu Bhaiya",
+    "actor": "Pankaj Tripathi",
+    "movieFull": "Ludo (2020)",
+    "hint": "Ludo is life, life is Ludo.",
+    "id": 284
+  },
+  {
+    "characterFull": "Vikram Batra",
+    "actor": "Sidharth Malhotra",
+    "movieFull": "Shershaah (2021)",
+    "hint": "Yeh dil maange more!",
+    "id": 285
+  },
+  {
+    "characterFull": "Vikram Batra",
+    "actor": "Sidharth Malhotra",
+    "movieFull": "Shershaah (2021)",
+    "hint": "Ya toh Tiranga lehra ke aaunga, ya phir usmein lipat ke aaunga.",
+    "id": 286
+  },
+  {
+    "characterFull": "Veer Sooryavanshi",
+    "actor": "Akshay Kumar",
+    "movieFull": "Sooryavanshi (2021)",
+    "hint": "Yeh Mumbai police hai, inke nishane se aaj tak koi bach nahi paya hai.",
+    "id": 287
+  },
+  {
+    "characterFull": "Kapil Dev",
+    "actor": "Ranveer Singh",
+    "movieFull": "83 (2021)",
+    "hint": "We are here to win.",
+    "id": 288
+  },
+  {
+    "characterFull": "Gangubai",
+    "actor": "Alia Bhatt",
+    "movieFull": "Gangubai Kathiawadi (2022)",
+    "hint": "Izzat se jeene ka, kisi se darne ka nahi.",
+    "id": 289
+  },
+  {
+    "characterFull": "Gangubai",
+    "actor": "Alia Bhatt",
+    "movieFull": "Gangubai Kathiawadi (2022)",
+    "hint": "Gangu chaand thi, aur chaand hi rahegi.",
+    "id": 290
+  },
+  {
+    "characterFull": "Shiva",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Brahmastra (2022)",
+    "hint": "Kaun ho tum? Main aag hoon.",
+    "id": 291
+  },
+  {
+    "characterFull": "Isha",
+    "actor": "Alia Bhatt",
+    "movieFull": "Brahmastra (2022)",
+    "hint": "Kuch rishte aag aur dhuen jaise hote hain.",
+    "id": 292
+  },
+  {
+    "characterFull": "Vijay Salgaonkar",
+    "actor": "Ajay Devgn",
+    "movieFull": "Drishyam 2 (2022)",
+    "hint": "Sach jhooth se zyada tikta nahi hai.",
+    "id": 293
+  },
+  {
+    "characterFull": "Pathaan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Pathaan (2023)",
+    "hint": "Party Pathaan ke ghar rakhoge toh mehmaannawazi ke liye Pathaan toh aayega.",
+    "id": 294
+  },
+  {
+    "characterFull": "Pathaan",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Pathaan (2023)",
+    "hint": "Ek soldier ye nahi poochta ki desh ne uske liye kya kiya...",
+    "id": 295
+  },
+  {
+    "characterFull": "Vikram Rathore",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Jawan (2023)",
+    "hint": "Bete ko haath lagane se pehle, baap se baat kar.",
+    "id": 296
+  },
+  {
+    "characterFull": "Vikram Rathore",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Jawan (2023)",
+    "hint": "Jab main villain banta hoon, toh koi hero mere saamne tik nahi pata.",
+    "id": 297
+  },
+  {
+    "characterFull": "Vikram Rathore",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Jawan (2023)",
+    "hint": "Chahiye toh Alia Bhatt, par umar mein thodi chhoti hai.",
+    "id": 298
+  },
+  {
+    "characterFull": "Ranvijay",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Animal (2023)",
+    "hint": "You are my father, and I am your son.",
+    "id": 299
+  },
+  {
+    "characterFull": "Ranvijay",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Animal (2023)",
+    "hint": "Papa ko kuch mat bolna.",
+    "id": 300
+  },
+  {
+    "characterFull": "Ranvijay",
+    "actor": "Ranbir Kapoor",
+    "movieFull": "Animal (2023)",
+    "hint": "My love for you is unconditional.",
+    "id": 301
+  },
+  {
+    "characterFull": "Hardy",
+    "actor": "Shah Rukh Khan",
+    "movieFull": "Dunki (2023)",
+    "hint": "Koi bhi apna ghar nahi chhodna chahta, jab tak ki uska ghar uska dushman na ban jaye.",
+    "id": 302
+  },
+  {
+    "characterFull": "Rocky",
+    "actor": "Ranveer Singh",
+    "movieFull": "Rocky Aur Rani Kii Prem Kahaani (2023)",
+    "hint": "Pyaar kiya toh darna kya, aur pyaar karke shaadi nahi karna toh kya karna?",
+    "id": 303
+  },
+  {
+    "characterFull": "Tara Singh",
+    "actor": "Sunny Deol",
+    "movieFull": "Gadar 2 (2023)",
+    "hint": "Tara Singh ko mat chhedna.",
+    "id": 304
+  },
+  {
+    "characterFull": "Tara Singh",
+    "actor": "Sunny Deol",
+    "movieFull": "Gadar 2 (2023)",
+    "hint": "Ghar aaja pardesi, tera des bulaye re... bajne de is baar.",
+    "id": 305
+  }
+]
